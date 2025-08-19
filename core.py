@@ -2,6 +2,9 @@
 ##############################################
 # core.py renew by Zhiwen Zhu at 2023/07/21  Email address: zhiwenzhu@shu.edu.cn
 ##############################################
+# core.py renew by Wu Zhengxiao at 2025/08  Email address: wzxiao@mail.ustc.edu.cn
+##############################################
+
 import logging
 import time
 from abc import ABCMeta, abstractmethod
