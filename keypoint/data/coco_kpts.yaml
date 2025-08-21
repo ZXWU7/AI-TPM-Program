@@ -1,0 +1,7 @@
+train: ./data/train.txt # 118287 images
+val: ./data/val.txt     # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: ./data/val.txt
+# number of classes
+nc: 1
+
+names: [ 'person']

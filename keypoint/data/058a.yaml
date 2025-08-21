@@ -1,0 +1,9 @@
+path: C:/Users/73594/Desktop/my_python/Ni-TPM_for_AI/keypoint/aug_dataset/dataset
+test: C:/Users/73594/Desktop/my_python/Ni-TPM_for_AI/keypoint/aug_dataset/dataset/voc/ImageSets/img_test.txt
+train: C:/Users/73594/Desktop/my_python/Ni-TPM_for_AI/keypoint/aug_dataset/dataset/voc/ImageSets/img_train.txt
+val: C:/Users/73594/Desktop/my_python/Ni-TPM_for_AI/keypoint/aug_dataset/dataset/voc/ImageSets/img_valid.txt
+
+# number of classes
+nc: 1
+
+names: ['058']

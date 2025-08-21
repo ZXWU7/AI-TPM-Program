@@ -1,0 +1,11 @@
+
+train: 'D:/code/yolov7-pose_Npoint_Ncla-master/dataset/voc/ImageSets/Main/img_train.txt'  # 118287 images
+val: 'D:/code/yolov7-pose_Npoint_Ncla-master/dataset/voc/ImageSets/Main/img_valid.txt'     # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test: 'D:/code/yolov7-pose_Npoint_Ncla-master/dataset/voc/ImageSets/Main/img_text.txt'
+
+# number of classes
+nc: 2
+
+names: ['R','L']
+
+
