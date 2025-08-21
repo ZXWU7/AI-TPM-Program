@@ -1,0 +1,17 @@
+2025-02-11 13:14:26,498 - INFO - Registered molecule: Molecule(position=(10, 20), key_points=[(12, 22), (14, 24)], orientation=45, registration_time=1739250866.498571, status=0, operated=False, operated_time=0)
+2025-02-11 13:14:26,498 - INFO - Registered molecule: Molecule(position=(30, 40), key_points=[(32, 42), (34, 44)], orientation=0, registration_time=1739250866.498571, status=1, operated=True, operated_time=1739250866.498571)
+2025-02-11 13:14:26,499 - INFO - Moved all molecules by (5, 5)
+2025-02-11 13:14:26,499 - INFO - Updated molecule at index 0: {'status': 1, 'operated': True, 'operated_time': 1739250866.499571}
+2025-02-11 13:14:26,500 - INFO - Found closest molecule to (15, 25): None at index -1
+2025-02-11 13:17:55,655 - INFO - Registered molecule: Molecule(position=(10, 20), key_points=[(12, 22), (14, 24)], orientation=45, registration_time=1739251075.6549013, status=0, operated=False, operated_time=0)
+2025-02-11 13:17:55,655 - INFO - Registered molecule: Molecule(position=(10, 20), key_points=[(12, 22), (14, 24)], orientation=45, registration_time=1739251075.6559017, status=0, operated=False, operated_time=0)
+2025-02-11 13:17:55,655 - INFO - Registered molecule: Molecule(position=(30, 40), key_points=[(32, 42), (34, 44)], orientation=0, registration_time=1739251075.6559017, status=1, operated=True, operated_time=1739251075.6559017)
+2025-02-11 13:17:55,655 - INFO - Moved all molecules by (5, 5)
+2025-02-11 13:17:55,656 - INFO - Updated molecule at index 0: {'status': 1, 'operated': True, 'operated_time': 1739251075.6569016}
+2025-02-11 13:17:55,658 - INFO - Found closest molecule to (15, 25): Molecule(position=(15, 25), key_points=[(17, 27), (19, 29)], orientation=45, registration_time=1739251075.6559017, status=0, operated=False, operated_time=0) at index 1
+2025-02-11 13:18:17,126 - INFO - Registered molecule: Molecule(position=(10, 20), key_points=[(12, 22), (14, 24)], orientation=45, registration_time=1739251097.126466, status=0, operated=False, operated_time=0)
+2025-02-11 13:18:17,126 - INFO - Registered molecule: Molecule(position=(10, 20), key_points=[(12, 22), (14, 24)], orientation=45, registration_time=1739251097.126466, status=0, operated=False, operated_time=0)
+2025-02-11 13:18:17,126 - INFO - Registered molecule: Molecule(position=(30, 40), key_points=[(32, 42), (34, 44)], orientation=0, registration_time=1739251097.126466, status=1, operated=True, operated_time=1739251097.126466)
+2025-02-11 13:18:17,127 - INFO - Moved all molecules by (5, 5)
+2025-02-11 13:18:17,128 - INFO - Updated molecule at index 0: {'status': 1, 'operated': True, 'operated_time': 1739251097.128467}
+2025-02-11 13:18:17,128 - INFO - Found closest molecule to (15, 25): Molecule(position=(15, 25), key_points=[(17, 27), (19, 29)], orientation=45, registration_time=1739251097.126466, status=0, operated=False, operated_time=0) at index 1
